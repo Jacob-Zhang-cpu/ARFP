@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the associated paper."
+title: "Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition"
+type: software
+version: "0.0.0"
+year: 2026
+note: "Code coming soon."
+authors:
+  - given-names: Jiabei
+    family-names: Zhang
+  - given-names: Ziyuan
+    family-names: Yang
+  - given-names: Andrew Beng Jin
+    family-names: Teoh
+  - given-names: Yi
+    family-names: Zhang
+repository-code: "https://github.com/Jacob-Zhang-cpu/ARFP"
