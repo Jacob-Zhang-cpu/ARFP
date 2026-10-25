@@ -11,12 +11,6 @@ ARFP is a restoration-aware framework for key-conditioned, reversible face priva
 - **Venue:** NeurIPS 2026
 - **OpenReview:** https://openreview.net/forum?id=P0mFHNVW04
 
-## Planned release
-
-- Training and evaluation code
-- Pretrained models
-- Usage instructions
-
 ## Contact
 
 2023141530097@stu.scu.edu.cn
@@ -29,6 +23,5 @@ ARFP is a restoration-aware framework for key-conditioned, reversible face priva
   author    = {Zhang, Jiabei and Yang, Ziyuan and Teoh, Andrew Beng Jin and Zhang, Yi},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026},
-  note      = {Code coming soon}
 }
 ```
