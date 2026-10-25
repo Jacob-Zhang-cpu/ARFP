@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition"
+message: "If you use this work, please cite the paper. Code coming soon."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Jiabei
+  - family-names: Yang
+    given-names: Ziyuan
+  - family-names: Teoh
+    given-names: Andrew Beng Jin
+  - family-names: Zhang
+    given-names: Yi
+year: 2026
