@@ -14,14 +14,3 @@ ARFP is a restoration-aware framework for key-conditioned, reversible face priva
 ## Contact
 
 2023141530097@stu.scu.edu.cn
-
-## Citation
-
-```bibtex
-@inproceedings{zhang2026arfp,
-  title     = {Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition},
-  author    = {Zhang, Jiabei and Yang, Ziyuan and Teoh, Andrew Beng Jin and Zhang, Yi},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026},
-}
-```
